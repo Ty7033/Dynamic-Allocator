@@ -1,7 +1,4 @@
-/**
- * Do not submit your assignment with a main function in this file.
- * If you submit with a main function in this file, you will get a zero.
- */
+
 #include <stdio.h>
 #include <errno.h>
 #include <stdlib.h>
